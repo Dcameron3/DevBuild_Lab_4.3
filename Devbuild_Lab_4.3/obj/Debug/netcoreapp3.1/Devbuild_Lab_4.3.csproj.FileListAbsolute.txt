@@ -1,0 +1,13 @@
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\bin\Debug\netcoreapp3.1\Devbuild_Lab_4.3.exe
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\bin\Debug\netcoreapp3.1\Devbuild_Lab_4.3.deps.json
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\bin\Debug\netcoreapp3.1\Devbuild_Lab_4.3.runtimeconfig.json
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\bin\Debug\netcoreapp3.1\Devbuild_Lab_4.3.runtimeconfig.dev.json
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\bin\Debug\netcoreapp3.1\Devbuild_Lab_4.3.dll
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\bin\Debug\netcoreapp3.1\Devbuild_Lab_4.3.pdb
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\obj\Debug\netcoreapp3.1\Devbuild_Lab_4.3.csproj.AssemblyReference.cache
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\obj\Debug\netcoreapp3.1\Devbuild_Lab_4.3.AssemblyInfoInputs.cache
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\obj\Debug\netcoreapp3.1\Devbuild_Lab_4.3.AssemblyInfo.cs
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\obj\Debug\netcoreapp3.1\Devbuild_Lab_4.3.csproj.CoreCompileInputs.cache
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\obj\Debug\netcoreapp3.1\Devbuild_Lab_4.3.dll
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\obj\Debug\netcoreapp3.1\Devbuild_Lab_4.3.pdb
+C:\Devbuild\Week4\New folder\Devbuild_Lab_4.3\Devbuild_Lab_4.3\obj\Debug\netcoreapp3.1\Devbuild_Lab_4.3.genruntimeconfig.cache
